@@ -1,4 +1,4 @@
-package com.caringondemand.customdialog;
+package com.john.customdialog;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

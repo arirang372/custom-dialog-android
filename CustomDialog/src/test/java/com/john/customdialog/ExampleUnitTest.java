@@ -1,4 +1,4 @@
-package com.caringondemand.customdialog;
+package com.john.customdialog;
 
 import org.junit.Test;
 
